@@ -1,0 +1,35 @@
+[33mcommit a11f12bc4fa4554e3f0036aed97916c079bb46b9[m[33m ([m[1;36mHEAD -> [m[1;32mLygiavimo-uzduotis[m[33m)[m
+Author: LukBui <lukas.buivydas@gmail.com>
+Date:   Thu Mar 17 19:46:02 2022 +0200
+
+    centered and wrapped
+
+[33mcommit 1362f93d0ce0c186436930fef03a3c33abb322cf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Martynas Druteika <martynasdd@gmail.com>
+Date:   Thu Mar 17 09:17:57 2022 +0200
+
+    added bonus task
+
+[33mcommit 848057c480fc1bcb78a2d9daacf18499d8984c94[m
+Author: Martynas Druteika <martynasdd@gmail.com>
+Date:   Thu Mar 17 09:12:04 2022 +0200
+
+    remove test
+
+[33mcommit 0d7039a1c3ee040982cb13a12b6d673c6c9c2bf4[m
+Author: Martynas Druteika <martynasdd@gmail.com>
+Date:   Thu Mar 17 08:59:43 2022 +0200
+
+    test
+
+[33mcommit 7332d84912080cae210c8c0b2b7f074a410dd3a7[m
+Author: Martynas Druteika <martynasdd@gmail.com>
+Date:   Thu Mar 17 08:57:49 2022 +0200
+
+    added starting point and expected result into README.MD
+
+[33mcommit dfc581a1e03e0e8063d951db6231787b4dce1bb0[m
+Author: Martynas Druteika <martynasdd@gmail.com>
+Date:   Thu Mar 17 08:51:07 2022 +0200
+
+    initial commit
